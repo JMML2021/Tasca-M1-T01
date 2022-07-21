@@ -1,4 +1,4 @@
-# Tasca-M1-T01
+# Tasca-M1-T01  Base de dades
 Exercicis amb MySQL.
 
 
